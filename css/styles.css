@@ -1,11 +1,20 @@
 .SS{font-family:sans-serif;}
 
 .orange{color:orange;}
+.white{color:white;}
 .blue{color:blue;}
 .gray{color:gray;}
+
+.Dpad{padding:10px;}
+
+.Baqua{background-color:aqua;}
 
 .flex{display:flex;}
 .fcenter{display:flex;justify-content:center;}
 .fcolumn{display:flex;flex-direction:column;}
 .block{display:block;}
 
+.link{padding:3px;border-bottom: 2px dotted blue;}
+.link:hover{padding:3px;border-bottom: 2px dashed blue;}
+
+.Lgray{border-bottom-color:gray;}

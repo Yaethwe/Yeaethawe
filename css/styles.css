@@ -1,0 +1,11 @@
+.SS{font-family:sans-serif;}
+
+.orange{color:orange;}
+.blue{color:blue;}
+.gray{color:gray;}
+
+.flex{display:flex;}
+.fcenter{display:flex;justify-content:center;}
+.fcolumn{display:flex;flex-direction:column;}
+.block{display:block;}
+

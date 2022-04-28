@@ -32,3 +32,12 @@
 .rightRound{border-top-right-radius:20px;border-bottom-right-radius:20px;}
 
 .pad5{padding:5px;}
+
+@media screen and (max-width:600px){
+	.footRow{
+		display:flex;flex-direction:column;
+	}
+	.footItem{
+		display:flex;justify-content:center;
+	}
+}

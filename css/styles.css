@@ -4,10 +4,14 @@
 .white{color:white;}
 .blue{color:blue;}
 .gray{color:gray;}
+.gold{color:gold;}
+.yellow{color:yellow;}
 
 .Dpad{padding:10px;}
 
 .Baqua{background-color:aqua;}
+.Borange{background-color:orange;}
+.Bgray{background-color:gray;}
 
 .flex{display:flex;}
 .fcenter{display:flex;justify-content:center;}
@@ -21,3 +25,10 @@
 
 .footRow{display:flex;justify-content:space-around;}
 .footItem{display:flex;flex-direction:column;}
+
+.menuBar{position:sticky;top:0;opacity:0.9;}
+
+.leftRound{border-top-left-radius:20px;border-bottom-left-radius:20px;}
+.rightRound{border-top-right-radius:20px;border-bottom-right-radius:20px;}
+
+.pad5{padding:5px;}

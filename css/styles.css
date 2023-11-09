@@ -63,3 +63,13 @@ hr:hover{padding:3px;border-bottom: 2px dashed blue;}
 		display:flex;justify-content:center;
 	}
 }
+
+.fullscreen{
+	width: 100vw;
+	height: 100vh;
+}
+.centered{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}

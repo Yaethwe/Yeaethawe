@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Yaethwe
-- 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning in internet.
-- 💞️ I’m looking to collaborate on viber group.
-- 📫 You can meet me at Me Za Li Kone/Ayeyarwady/Myanmar
+# Maung Yeae Thawe
+    This name is equal to the following names
+    -> Yee Thwe
+    -> Yae Thaway
+    -> Yae Thwe
 
-<!---
-Yaethwe/Yaethwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    I have used many names to represent myself but, in reality, I am a boy who is only 16 years old.
+
+## Am I Friendly?
+    Yes, of course, why not? I am really friendly. I can communicate with anyone without probems.
+
+## Am I Enjoy Coding?
+    I enjoy coding very much and I really love JavaScript.
